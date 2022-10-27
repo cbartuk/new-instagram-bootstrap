@@ -56,6 +56,7 @@ input.empty {
 
 .middlearea {
   max-height: 200px !important;
+  padding-top: 100px !important;
 }
 
 .card-header,
@@ -66,4 +67,8 @@ input.empty {
 #sticky-sidebar {
   position: fixed;
   top: 100px;
+}
+
+.card {
+  margin-bottom: 2rem;
 }
