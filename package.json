@@ -1,0 +1,17 @@
+{
+  "name": "instagram-clone-bootstrap",
+  "version": "1.0.0",
+  "description": "bootstrap clone",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SenatorMaul",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "dist": "^0.1.2",
+    "git": "^0.1.5",
+    "webpack": "^5.74.0"
+  }
+}
